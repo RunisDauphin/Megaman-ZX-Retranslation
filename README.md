@@ -9,6 +9,7 @@ Servidor de Discord / Serveur de Discord: https://discord.com/invite/3CrMpGxGHB
 Este parche es una retraducción de Megaman ZX que modifica las versiones española y francesa del juego para corregir fallos ortográficos y gramaticales que aparecen en todos los textos, así como arreglar algunas decisiones cuestionables de la versión originalmente lanzada en 2005 para dar una mejor experiencia de juego.
 
 Preguntas frecuentes:
+
 1->/¿Qué necesito?
 Necesitarás los siguientes archivos:
 -/El parche correctamente extraído (ir a la sección "Releases" disponible desde esta página).
@@ -59,6 +60,7 @@ Este parche se ha hecho con la ayuda de Translhextion, donde, con la ayuda de un
 Ce patch est une retraduction de Megaman ZX qui modifie les versions espagnole et française du jeu pour corriger des erreurs ortographiques et grammaticals qui apparaissent dans tous les textes, et arranger quelques décisions questionables de la version originalement lancée en 2005 pour donner une meilleure expérience de jeu.
 
 Questions fréquentes:
+
 1->/Qu'est-ce que j'ai besoin?
 Vous aurez besoin de ces fichiers:
 -/Le patch correctement extraît (aller à la section "Releases" disponible depuis cette page).
