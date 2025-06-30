@@ -102,7 +102,7 @@ Ceci sert à corriger quelques erreurs dans la version originale du jeu en ses v
 
 4->/Supposons que je veux jouer en une langue différente à espagnol et français (par exemple, anglais). Ça signifie que je ne pouurai plus jouer avec elles?
 
-Non. Ça signifie que ton expérience serait exactement égal que sans avoir appliqué ce patch (c'est à dire, ce patch ne modifie pas les textes des autres quatre langues).
+Non. Ça signifie que ton expérience serait exactement égale que sans avoir appliqué ce patch (c'est à dire, ce patch ne modifie pas les textes des autres quatre langues).
 
 5->/Les noms des boîtes texte ne s'ajustent pas aux nouveaux noms. Pourquoi ça se passe?
 
