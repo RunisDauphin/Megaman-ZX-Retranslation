@@ -42,7 +42,7 @@ No. Lo que significa es que tu experiencia sería exactamente igual que si no hu
 
 5->/Los nombres de las cajas de texto no se ajustan a los nuevos nombres. ¿Por qué pasa esto?
 
-Lo más seguro es que estés jugando a la versión francesa. Eso se produce porque desconozco dónde se hayan esos textos en el archivo del juego y por ende no están modificados y siguen los nombres antiguos.
+Lo más seguro es que estés jugando a la versión francesa. Eso se produce porque desconozco dónde se hallan esos textos en el archivo del juego y por ende no están modificados y siguen los nombres antiguos.
 
 6->/Yo ya tenía una partida de antes y quiero probar este parche pero no perder progreso. ¿Puedo hacerlo?
 
