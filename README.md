@@ -33,7 +33,7 @@ Esto sirve para corregir varios fallos de la versión original del juego en sus 
 
 -/Se han suprimido huecos innecesarios para ahorrar espacio (cada hueco eliminado reduce en un byte el tamaño del bloque).
 -/Todas las instancias de la palabra "Disidente" han sido sustituidas por "Maverick", para mantener la terminología ya introducida en Megaman X.
--/La Base de los Guardianes a pasado a denominarse "SC de los Guardianes" (SC significa "Sede Central").
+-/La Base de los Guardianes ha pasado a denominarse "SC de los Guardianes" (SC significa "Sede Central").
 -/Por traducción de la palabra francesa "livreur", todas las instancias de mensajero han sido sustituidas por repartidor.
 
 4->/Supongamos que quiero probar otro idioma distinto a español y francés (por ejemplo, inglés). ¿Significa que ya no puedo jugar con ellas?
@@ -97,7 +97,7 @@ El que dice NDS Slot 2 Patch - Retranslation est pensé pour être appliqué sur
 Ceci sert à corriger quelques erreurs dans la version originale du jeu en ses versions espagnole et française (le patch corrige les deux versions simultanément). Ces corrections consistent en:
 
 -/Tous les espaces innecessaires ont été supprimés pour économiser espace (chaque espace eliminé reduit en un byte la taille du bloc).
--/Tous les noms des Gardiens ont été retournés à ses noms originals, qui étaient en français (pour quelque raison, en 2005, tous ces noms ont été changés de français à anglais seulement dans la version française du jeu). Rappelons-nous que, dans les jeux de Megaman Zero, beaucoup de membres de la Résistance avaient des noms en français. Les noms des pseudodroïdes ont aussi été retourné aux noms des autres versions, parce que les noms des pseudodroïdes commençaient par la même lètre que le modèle qu'ils protègeaient et, originalement, ce jeu de mots était perdu.
+-/Tous les noms des Gardiens ont été retournés à ses noms originaux, qui étaient en français (pour quelque raison, en 2005, tous ces noms ont été changés de français à anglais seulement dans la version française du jeu). Rappelons-nous que, dans les jeux de Megaman Zero, beaucoup de membres de la Résistance avaient des noms en français. Les noms des pseudodroïdes ont aussi été retourné aux noms des autres versions, parce que les noms des pseudodroïdes commençaient par la même lètre que le modèle qu'ils protègeaient et, originalement, ce jeu de mots était perdu.
 -/Le QG des Gardiens est maintenant dénommé "SC des Gardiens" (SC signifie "Siège Central").
 
 4->/Supposons que je veux jouer en une langue différente à espagnol et français (par exemple, anglais). Ça signifie que je ne pouurai plus jouer avec elles?
@@ -118,7 +118,7 @@ Je crois que c'est un système antipiraterie qui vient avec le jeu base et s'act
 
 8->/J'ai achevé à extraîre le jeu de la colection Megaman Zero/ZX Legacy Collection. Est-elle compatible avec ce patch?
 
-Je l'ignore, et ce patch n'a pas été conçu pour cette version. On ne répondra pas aucune question associée avec elle.
+Je l'ignore, et ce patch n'a pas été conçu pour cette version. On ne répondra aucune question associée avec elle.
 
 9->/J'ai rencontré un bug. Comment je le notifie?
 
@@ -126,7 +126,7 @@ Je vous recommande que vous allez sur le serveur Discord lié et vous communique
 
 10->/Je suis l'actuel propriétaire des droits de Megaman ZX (à date de l'écriture de ce document, Capcom est la proprietaire). Peux-je utiliser ce patch dans ma version?
 
-Oui. Parfaitement. Il n'y a pas aucun problème au sujet.
+Oui. Parfaitement. Il n'y a aucun problème au sujet.
 
 11->/Ce patch, comment c'est fait?
 
