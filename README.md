@@ -130,7 +130,7 @@ Oui. Parfaitement. Il n'y a aucun problème au sujet.
 
 11->/Ce patch, comment c'est fait?
 
-Ce patch est fait avec l'aide de Translhextion, où, avec l'aide d'une table de caractèrs tbl, on a mieux visionné les textes, et HxD, où on a modifié manuellement les textes. On a modifié aussi avec HxD les pointeurs pour qu'ils pointent aux lieux corrects.
+Ce patch est fait avec l'aide de Translhextion, où, avec l'aide d'une table de caractères tbl, on a mieux visionné les textes, et HxD, où on a modifié manuellement les textes. On a modifié aussi avec HxD les pointeurs pour qu'ils pointent aux lieux corrects.
 
 Gracias por utilizar este parche.
 
